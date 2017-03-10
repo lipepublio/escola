@@ -1,3 +1,4 @@
 # escola
-Projetos da escola
-Projetos que fiz/faço para escola
+Projetos para Etec Professor Aprígio Gonzada;
+Expo 2015;
+
